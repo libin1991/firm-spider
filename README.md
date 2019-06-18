@@ -47,7 +47,7 @@ npm run start
 /movie/:type  电影（type 在电影爬虫脚本里有配置）
 /redBook/travel 小红书
 /pixabay  pixabay 网站的高清图片
-/douban   豆瓣评分前 500 的电影
+/douban  豆瓣评分前 500 的电影
 ```
 
 ## ⌛️ TODO
