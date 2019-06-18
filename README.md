@@ -34,7 +34,7 @@ data 下为抓取的数据，也作为向外开发 api 时读取数据入口
 电影天堂： npm run start:movie
 简书： npm run start:jianshu
 pixabay： npm run start:pixabay
-豆瓣：npm run start:douban
+豆瓣： npm run start:douban
 
 ```
 
